@@ -8,6 +8,9 @@
 1. [OpenRouter](https://openrouter.ai/) 有部分免费模型
 2. [小镜](https://open.xiaojingai.com/console) 目前充值1￥可以当平台的1$用
 
+## Agent工具
+1. [Replit](https://replit.com/~) web服务部署平台，有agent自动改bug和辅助部署，可以免费部署10个私有的app，可以免费公开其中一个。
+
 ## 论文写作
 1. [WritingAIPaper](https://github.com/hzwer/WritingAIPaper) AI顶会论文撰写经验帖，中英文
 
